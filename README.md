@@ -1,8 +1,8 @@
 # Week-12-Lecture
 Week-12-Lecture
 
-### VAE는 어떻게 생성형 AI 시대를 열었는가?
-* 논문명: Auto-Encoding  Variational Bayes
+### 역전파는 어떻게 AI의 암흑기를 끝내고 딥러닝의 시작을 열었는가?
+* 논문명: Learning representations by back-propagating errors”(Rumelhart, Hinton, Williams, 1986)
 
 ### 논문배경
 * 세상의 모든 데이터에는 눈에 보이지 않는 핵심 특징들이 숨어 있습니다. 우리는 이것을 수학적으로 **잠재 변수(z)라고 부르지만, 쉽게 말해 '설계도' 혹은 '레시피'라고 생각하면 됩니다.
