@@ -25,10 +25,13 @@ Week-12-Lecture
 
 ### 논문내용(주요 혁신 및 방법론)  :출력 오차를 역방향으로 전파하여 각 weight의 기여도를 계산하는 알고리즘
 * Forward pass: 한 번 앞으로 계산해서 예측값을 만든다.
-* <img width="768" height="190" alt="image" src="https://github.com/user-attachments/assets/4c1d47c1-21b8-4f39-b233-1acfac103f7f" />
+ <img width="768" height="190" alt="image" src="https://github.com/user-attachments/assets/4c1d47c1-21b8-4f39-b233-1acfac103f7f" />
 
 * Backward pass: 오차를 뒤로 전달하며, 각 연결이 얼마나 잘못됐는지 미분으로 계산한다.
+ <img width="830" height="250" alt="image" src="https://github.com/user-attachments/assets/a3c5a91a-b057-46c7-abd4-cf4be13cbd38" />
+
 * Gradient descent 업데이트: 그 정보를 바탕으로 모든 weight를 오차가 줄어드는 방향으로 조금씩 고친다.
+<img width="771" height="469" alt="image" src="https://github.com/user-attachments/assets/1015bcea-7347-4966-9f32-a89cfb6d0fc3" />
 
 ### 기여도 및 결과
 * VAE 덕분에 AI는 단순히 있는 것을 분류하는 것을 넘어, 없는 것을 만들어내는(Generative) 능력을 갖게 되었습니다.
@@ -39,4 +42,4 @@ Week-12-Lecture
 
 ### 참고 파일
 
-* 논문1. Auto-Encoding Variational Bayes
+* 논문1. Learning representations by back-propagating errors
