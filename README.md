@@ -44,3 +44,4 @@ Week-12-Lecture
 ### 참고 파일
 
 * 논문1. Learning representations by back-propagating errors
+* 논문2. Improving Students’ Daily Life Stress Forecasting using  LSTM  Neural  Networks
