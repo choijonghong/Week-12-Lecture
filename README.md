@@ -59,5 +59,5 @@ Week-12-Lecture
 ### 참고 영상
 
 * [유튜브 영상해설 역전파 1](https://www.youtube.com/watch?v=tkH7KgLZc0E)
-* [유튜브 영상해설 Attention](https://www.youtube.com/watch?v=_Z3rXeJahMs&t=97s)
+* [유튜브 영상해설 역전파 2](https://www.youtube.com/watch?v=HKqdFQfXVhw&t=1s)
 
