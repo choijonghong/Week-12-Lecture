@@ -55,3 +55,9 @@ Week-12-Lecture
      * 특히 설문 없이 웨어러블·모바일의 객관적 신호만으로 감정 추정을 가능하게 했다.
      * 이는 감정 이해를 ‘현재 상태 측정’에서 **‘미래 감정 전망’**으로 확장하는 연구다.
      * 결과적으로, 감성컴퓨팅을 개인의 행동 개입·예방적 웰빙 지원으로 연결하는 실질적 기여를 했다. 
+
+### 참고 영상
+
+* [유튜브 영상해설 역전파 1](https://www.youtube.com/watch?v=tkH7KgLZc0E)
+* [유튜브 영상해설 Attention](https://www.youtube.com/watch?v=_Z3rXeJahMs&t=97s)
+
