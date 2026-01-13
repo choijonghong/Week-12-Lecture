@@ -40,6 +40,16 @@ Week-12-Lecture
 * CNN, LSTM, Transformer 등 현대 딥러닝의 핵심 기반이 되는 학습 원리를 확립했다.
 * AI가 스스로 특징을 학습하는 “Representation Learning” 시대의 출발점을 열었다.
 
+### (참고) RNN 재귀적(Recursion) 인코딩 예시
+* 나는
+* 나는 식당에서
+* 나는 식당에서 식빵을
+* 나는 식당에서 식빵을 먹었다.
+<img width="591" height="158" alt="image" src="https://github.com/user-attachments/assets/676d40a5-0ada-4285-b081-a57cda664a31" />
+
+### (참고) RNN 재귀적(Recursion) 디코딩 예시
+<img width="444" height="159" alt="image" src="https://github.com/user-attachments/assets/1d946a8f-f61a-4421-93e1-8a8e9f4f9680" />
+
 ### 감성컴퓨팅과 역전파
 * 감성 신호(표정·음성·텍스트)에서 보이지 않는 감정 상태를 예측하기 위한 내부 표현을 스스로 학습하게 해준다.
 * 감정 판단에 영향을 준 입력 요소가 무엇인지 오차를 역으로 계산해 weight를 조정한다.
