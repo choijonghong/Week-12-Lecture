@@ -1,5 +1,7 @@
 # Week-12-Lecture
 Week-12-Lecture
+* 윈도우 미디어 플레이어 인스텔러
+https://apps.microsoft.com/detail/9wzdncrfj3pt?utm_source=chatgpt.com&hl=ko-KR&gl=KR
 
 ### 역전파는 어떻게 AI의 암흑기를 끝내고 딥러닝의 시작을 열었는가?
 * 논문명: Learning representations by back-propagating errors”(Rumelhart, Hinton, Williams, 1986)
