@@ -37,6 +37,7 @@ https://apps.microsoft.com/detail/9wzdncrfj3pt?utm_source=chatgpt.com&hl=ko-KR&g
 
 ### 기여도 및 결과
 <img width="740" height="407" alt="image" src="https://github.com/user-attachments/assets/b6dbd341-a972-4fbd-8849-9df5519492c9" />
+<img width="691" height="379" alt="image" src="https://github.com/user-attachments/assets/9ea30d21-419f-42c0-bad0-9eb70c2aded1" />
 
 * (역전파) Hidden Layer가 의미 있는 표현을 스스로 학습하도록 하는 방법을 제시했다.
 * 다층 퍼셉트론 학습을 가능하게 하며 AI 발전의 전환점을 만들었다.
